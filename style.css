@@ -1,0 +1,33 @@
+div{
+    border: 3px pink;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: ;
+    grid-template-rows: ;
+}
+
+.top {
+
+}
+
+.navigation {
+
+}
+
+.header {
+
+}
+
+.left {
+   
+}
+
+.right {
+
+}
+
+.bottom {
+
+}
